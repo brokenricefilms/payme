@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://ongedit.github.io/pay
+redirect_url: https://licitfree.github.io/pay
 ---
